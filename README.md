@@ -17,3 +17,7 @@ I use a listener in order to rebuild the view and lock the Add button when the t
 ## Theme
 
 For styles I have modified theme and create a separate file for it.
+
+## Testing
+
+For testing I only consider verify the initial screen is empty
